@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "email": "ms0810s@naver.com", "password": "wshant22@@", "id": "ms0810s" },
+    { "email": "example@example.com", "password": "123456", "id": "example" },
+    { "email": "admin@admin.com", "password": "A!123456", "id": "admin" }
+  ]
+}
