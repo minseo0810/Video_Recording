@@ -18,8 +18,8 @@ const Header = memo(({ navigate, userInterviews }) => (
   >
     <Box
       component="img"
-      src="/태재대학교 로고.svg"
-      alt="태재대학교 로고"
+      src="/대학교.png"
+      alt="대학교 로고"
       sx={{
         width: 100,
         height: 'auto',
