@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import VideoRecordingInterview from './pages/VideoRecordingInterview'; // VideoRecordingInterview 컴포넌트
 import Home from './pages/Home'; // Home 컴포넌트
-import Login from './pages/Login'; // Login 컴포넌트
 
 const Root = () => (
   <BrowserRouter>

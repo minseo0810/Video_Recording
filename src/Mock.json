@@ -54,10 +54,12 @@
       "AnswerSeconds": 60,
       "ExamSetNo": "대학교 면접",
       "InterviewItemNo": 1,
-      "InterviewQuestion": "질문 1",
+      "InterviewQuestion": "질문",
+      "InterviewStatus": "영상확인",
       "InterviewTryCount": 1,
       "MinimumAnswerSeconds": 15,
-      "ReadingSeconds": 10
+      "ReadingSeconds": 10,
+      "EndTime": "2025-01-01 23:59"
     }
   ]
 }

@@ -78,7 +78,7 @@ function Home() {
               <Typography variant="h3">{interview.ExamSetNo}</Typography> {/* 면접명 */}
               <Typography variant="h5" color="textSecondary">
                 ~{' '}
-                {new Date(interview.SubmitTime).toLocaleString('ko-KR', {
+                {new Date(interview.EndTime).toLocaleString('ko-KR', {
                   hour: '2-digit',
                   minute: '2-digit',
                   year: 'numeric',
