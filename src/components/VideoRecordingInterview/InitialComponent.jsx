@@ -18,7 +18,7 @@ const Header = memo(({ navigate, userInterviews }) => (
   >
     <Box
       component="img"
-      src="/대학교.png"
+      src="/대학교 로고.svg"
       alt="대학교 로고"
       sx={{
         width: 100,
